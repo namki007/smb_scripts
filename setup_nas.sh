@@ -18,3 +18,4 @@ newpasswd=$6
 (echo $newpasswd; echo $newpasswd) | smbpasswd -s -a $newusername
 
 # Copied from: https://askubuntu.com/questions/1266/how-to-set-up-ubuntu-server-as-a-nas
+# 27/05/2025
